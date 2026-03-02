@@ -9,6 +9,9 @@ CDMO(Contract Development and Manufacturing Organization)란
 
 ## 프로젝트 참여 인원수
 - 3명
+  
+### 협업 방식
+- GitHub Flow
 
 ## 주요 기능
 - 회원가입 / 로그인
