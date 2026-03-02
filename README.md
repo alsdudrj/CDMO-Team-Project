@@ -25,7 +25,7 @@ Frontend: SPA 구조
 Backend: REST API 기반
 
 ## github Repository
-- 프론트엔드: [링크](https://github.com/alsdudrj/react-project)
-- 백엔드: [링크](https://github.com/alsdudrj/react-project-back)
+- 프론트엔드: [링크](https://github.com/alsdudrj/CDMO_Front)
+- 백엔드: [링크](https://github.com/alsdudrj/CDMO_Back)
 
 ## 화면 예시
