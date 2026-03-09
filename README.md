@@ -37,3 +37,9 @@ Backend: REST API 기반
 - 백엔드: [링크](https://github.com/alsdudrj/CDMO_Back)
 
 ## 화면 예시
+<details>
+<summary>공정 시뮬레이터 실시간 차트</summary>
+  
+![차트](gif/CDMO실시간차트.gif)
+
+</details>
