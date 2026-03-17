@@ -43,3 +43,24 @@ Backend: REST API 기반
 ![차트](gif/CDMO실시간차트.gif)
 
 </details>
+
+<details>
+<summary>레시피 생성</summary>
+  
+![레시피](gif/recipe.gif)
+
+</details>
+
+<details>
+<summary>일탈감지</summary>
+  
+![일탈감지](gif/deviation.gif)
+
+</details>
+
+<details>
+<summary>AuditLog</summary>
+  
+![audit](gif/auditlog.gif)
+
+</details>
